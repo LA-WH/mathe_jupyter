@@ -23,7 +23,19 @@ Mit dem "launch Binder"-Button öffnet sich ein Jupyterhub. Dort können Sie die
 ### Grundlegende Verwendung
 
 1. **Zellen**: Jupyter Notebooks bestehen aus Zellen. Jede Zelle kann entweder Code oder Text (Markdown) enthalten.
-2. Um den Inhalt einer Zelle auszuführen, drücken Sie `Shift + Enter`.
+2. Um den Inhalt einer Zelle auszuführen, drücken Sie `Shift + Enter` oder den ▶️-Button in der oberen Toolbar.
 3. Sie können den Zelltyp im Menü oben ändern. Für Code lassen Sie es auf "Code", für Text ändern Sie es in "Markdown".
 
 In diesem [Video](https://www.youtube.com/watch?v=uFzrYiwnKEk&t=301s&ab_channel=elab2go-MobileEngineeringLab) ist eine kurze Einleitung wie man Jupyter Notebooks verwendet. 
+
+---------------
+
+## **Falls Binder nicht startet**
+
+Eine alternative Möglichkeit Notebooks im Browser zu öffnen ist Google Colab.
+
+1. Navigieren Sie auf diesen Link. 
+    - https://colab.research.google.com/?hl=de
+2. Nun sollten Sie ein Pop-Up Fenster sehen. Wählen Sie dort GitHub aus und fügen den Link des Repository ein.
+    - https://github.com/LA-WH/mathe_jupyter
+3. Nun sollte eine Liste an Notebooks erscheinen. Klicken Sie auf das Notebook, das Sie bearbeiten möchten. 
