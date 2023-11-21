@@ -28,7 +28,7 @@ Mit dem "launch Binder"-Button öffnet sich ein Jupyterhub. Dort können Sie die
 
 In diesem [Video](https://www.youtube.com/watch?v=uFzrYiwnKEk&t=301s&ab_channel=elab2go-MobileEngineeringLab) ist eine kurze Einleitung wie man Jupyter Notebooks verwendet. 
 
----------------
+--------------
 
 ## **Falls Binder nicht startet**
 
