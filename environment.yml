@@ -10,3 +10,4 @@ dependencies:
   - plotly
   - sympy
   - squarify
+  - scipy
