@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LA-WH/mathe_jupyter/main)
 
-# Jupyter Notebooks zur Vorlesung Mathematische Grundlagen (MGR)
+# Jupyter Notebooks zur Vorlesung Statistik und lineare Algebra (SLA)
 
 In diesem Repository finden Sie Jupyter Notebooks, welche Sie im Rahmen dieser Veranstaltung bearbeiten sollen. Für jeden Themenblock werden Sie ein oder mehrere korrespondiere Notebooks finden. Zudem gibt es für die meisten Themen auch ein Anwendungs-Notebook. Hier werden die behandelten Themen auf ein praktisches Beispiel bezogen.
 
